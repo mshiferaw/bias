@@ -1,0 +1,22 @@
+# bias
+This is the repository for the bias parameter measurements of IllustrisTNG (TNG) and UniverseMachine (UM), as documented in https://arxiv.org/pdf/2412.06886. In addition to making the figures reproducible, we also include the code for running the bias parameter measurements.
+
+### notebooks
+Start here to reproduce each figure of the paper. All of the necessary data is hosted in the <code>data</code> folder. These notebooks should run automatically, aside from Figures 1 and 2, which rely on TNG and UM data. TNG data can be found at https://www.tng-project.org/data/, while UM data can be made available upon reasonable request to the authors.
+
+### figures 
+The output of each figure in the notebooks.
+
+### data
+This includes the bias parameter measurements, which are run using the <code>mpi_ksum.py</code> file, found in the <code>scripts</code> folder. 
+
+This folder includes identical bias parameter measurements, consolidated in such a way that we were able to set priors. This reformatting of the data is performed in the <code>Save_data_for_setting_priors.ipynb</code> notebook, also found in the <code>scripts</code> folder. 
+
+### batches
+The shell script <code>batch_ksum.sh</code> for running the bias parameter measurements can be found here. 
+
+### scripts
+This hosts the main <code>mpi_ksum.py</code> which we use to measure the bias parameters in each galaxy sample. This code, as well as the notebook for Figure 1, relies upon the Lagrangian component fields for TNG. These fields were obtained using the code in this repository: https://github.com/kokron/anzu/tree/main. 
+
+### To be added: 
+The code for removing assembly bias.
