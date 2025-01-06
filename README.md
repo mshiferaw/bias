@@ -18,7 +18,7 @@ The shell script <code>batch_ksum.sh</code> for running the bias parameter measu
 ### scripts
 This hosts the main <code>mpi_ksum.py</code> which we use to measure the bias parameters in each galaxy sample. This code, as well as the notebook for Figure 1, relies upon the Lagrangian component fields for TNG. These fields were obtained using the code in this repository: https://github.com/kokron/anzu/tree/main. 
 
-This script also produces the data for the consistency check that we perform in Figure 13.
+This script also produces the data for the consistency check that we perform in Figure 10.
 
 ### To be added: 
 The code for removing assembly bias.
