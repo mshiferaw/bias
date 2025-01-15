@@ -1,5 +1,5 @@
 # bias
-This is the repository for the bias parameter measurements of IllustrisTNG (TNG) and UniverseMachine (UM), as documented in https://arxiv.org/pdf/2412.06886. In addition to making the figures reproducible, we also include the code for running the bias parameter measurements.
+This is the repository for the bias parameter measurements of IllustrisTNG (TNG) and UniverseMachine (UM), as documented in https://arxiv.org/abs/2412.06886. In addition to making the figures reproducible, we also include the code for running the bias parameter measurements (<code>mpi_ksum.py</code>). As much of the infrastructure for this project was developed for https://arxiv.org/abs/2101.11014, please cite both papers if using any code from this repo.
 
 ### notebooks
 Start here to reproduce each figure of the paper. All of the necessary data is hosted in the <code>data</code> folder. These notebooks are gemerally self-contained, with the exception of Figures 1 and 2, which rely on TNG and UM data. TNG data can be found at https://www.tng-project.org/data/, while UM data can be made available upon reasonable request to the authors.
