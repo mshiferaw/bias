@@ -12,7 +12,7 @@ The output of each figure in the notebooks.
 ### data
 This includes the bias parameter measurements, which are run using the <code>mpi_ksum.py</code> file, found in the <code>scripts</code> folder. 
 
-This folder includes identical bias parameter measurements, consolidated in such a way that we were able to set priors. This reformatting of the data is performed in the <code>Save_data_for_setting_priors.ipynb</code> notebook, also found in the <code>notebook</code> folder. 
+Within the <code>data/priors</code> folder, we include these same bias parameter measurements, consolidated in such a way that we were able to set priors. This reformatting of the data is performed in the <code>Save_data_for_setting_priors.ipynb</code> notebook, also found in the <code>notebook</code> folder. 
 
 ### batches
 The shell script <code>batch_ksum.sh</code> for running the bias parameter measurements can be found here. 
