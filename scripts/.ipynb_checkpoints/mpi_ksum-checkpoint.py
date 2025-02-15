@@ -389,8 +389,8 @@ def pk(field, title, kvals_file, lin_pk_file, res, correlation = 'auto', second 
     # k arrays are set like this
     kvals = lin_pk.power['k'] 
     
-    np.save(kvals_file+'_'+title, kvals)
-    np.save(lin_pk_file+'_'+title, powervals)
+    # np.save(kvals_file+'_'+title, kvals)
+    # np.save(lin_pk_file+'_'+title, powervals)
 
     return powervals, kvals
     
@@ -450,7 +450,7 @@ def sanity_check(gal_k, density_k, Lbox, cut, color, hodtype, density, kvals_fil
     grid1.yaxis.grid(which = "both")
 
     # plot!
-    plt.savefig(home+'P(k)_comparison_'+color+'_'+hodtype+'_'+density+'_'+str(res))
+    # plt.savefig(home+'P(k)_comparison_'+color+'_'+hodtype+'_'+density+'_'+str(res))
     plt.clf()    
 
 def covariance_sanity_check(matter_k, pm, gal_k, kvals_file, lin_pk_file, res, nmesh):
@@ -461,7 +461,7 @@ def covariance_sanity_check(matter_k, pm, gal_k, kvals_file, lin_pk_file, res, n
                                              second = gal_k)
     lin_pk_matter, kvals_matter = pk(matter_k, 'matter_k', kvals_file, lin_pk_file, res)
     
-    np.save(lin_pk_file+'_biasval2_2', lin_pk_gal_matter/lin_pk_matter - 1) # sanity check for fig 10!
+    # np.save(lin_pk_file+'_biasval2_2', lin_pk_gal_matter/lin_pk_matter - 1) # sanity check for fig 10!
     
     # now do it with nick's field
     matter_field_file = '/scratch/users/kokron/tngsnaps/snap_50/tng_deltam.npy'
@@ -478,8 +478,7 @@ def covariance_sanity_check(matter_k, pm, gal_k, kvals_file, lin_pk_file, res, n
         lin_pk_matter, kvals_matter = pk(matter_k, 'matter_k', kvals_file, lin_pk_file, res)
         np.save(lin_pk_file+'_biasval_2', lin_pk_gal_matter/lin_pk_matter - 1) 
 
-def run_perr(bigbvec, perrvec, snapshot, pm, box, Lbox, color, hodtype, density, nmesh, res, Ndown, D, nbias, kmaxvec, kmaxfin, z,
-             comp = True):
+def run_perr(bigbvec, perrvec, snapshot, pm, box, Lbox, color, hodtype, density, nmesh, res, Ndown, D, nbias, kmaxvec, kmaxfin, z, comp = True):
    
     hodslice, nbar = halocat_to_cut(snapshot, Lbox, color, hodtype, density, z)
     mpiprint(np.shape(hodslice))
@@ -495,8 +494,10 @@ def run_perr(bigbvec, perrvec, snapshot, pm, box, Lbox, color, hodtype, density,
     pm.paint(p, out=gal_field, mass=1, resampler='cic')
     
     # Make overdensity contrast
+    mpiprint('making overdensity contrast')
     gal_field = gal_field / gal_field.cmean() - 1
     mpiprint(gal_field.shape)
+    mpiprint('made overdensity contrast')
     
     gal_k = gal_field.r2c()    
     if res == 128: 
@@ -610,7 +611,7 @@ def run_perr(bigbvec, perrvec, snapshot, pm, box, Lbox, color, hodtype, density,
         invmatvec.append(invmats) 
     mpiprint(time.time() - st)
     k1_idx = find_nearest(kmaxvec, kmaxfin)
-    np.save(home+'k1_idx', k1_idx)
+    # np.save(home+'k1_idx', k1_idx)
     mpiprint('kmax: '+str(kmaxvec[k1_idx]))
     bvals = bigbvec[k1_idx] 
     biasfield = 0
@@ -721,13 +722,13 @@ def main():
     sys.stdout.flush()
     time.sleep(10)
                             
-    if rank==0:
-        np.save('mpiksumperr_%shod_z%s_kmax%.2f_Ndown%d_nbias%d_%s_%s'%(hodtype,z,kmaxfin,Ndown,nbias, color, density), perrvec)
-        np.save('mpibiasval_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), bigbvec)
-        np.save('mpiinvmat_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(invmatvec))
-        np.save('mpikmax_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(kmaxvec))
-        np.save('mpikvals_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(kvals))
-        np.save('mpinbar_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), nbarmean)
+    # if rank==0:
+        # np.save('mpiksumperr_%shod_z%s_kmax%.2f_Ndown%d_nbias%d_%s_%s'%(hodtype,z,kmaxfin,Ndown,nbias, color, density), perrvec)
+        # np.save('mpibiasval_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), bigbvec)
+        # np.save('mpiinvmat_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(invmatvec))
+        # np.save('mpikmax_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(kmaxvec))
+        # np.save('mpikvals_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), np.array(kvals))
+        # np.save('mpinbar_%shod_z%s_Ndown%d_nbias%d_%s_%s'%(hodtype,z,Ndown,nbias, color, density), nbarmean)
     
     mpiprint('Success! '+hodtype+color+density)
     

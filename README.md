@@ -15,7 +15,7 @@ This includes the bias parameter measurements, which are run using the <code>mpi
 Within the <code>data/priors</code> folder, we include these same bias parameter measurements, consolidated in such a way that we were able to set priors. This reformatting of the data is performed in the <code>Save_data_for_setting_priors.ipynb</code> notebook, also found in the <code>notebook</code> folder. 
 
 ### batches
-The shell script <code>batch_ksum.sh</code> for running the bias parameter measurements can be found here. 
+The shell script <code>batch_ksum.sh</code> for running the bias parameter measurements can be found here. Run with the command <code>sbatch batch_ksum.sh 0.2 5 1250</code>.
 
 ### scripts
 This hosts the main <code>mpi_ksum.py</code> which we use to measure the bias parameters in each galaxy sample. This code, as well as the notebook for Figure 1, relies upon the Lagrangian component fields for TNG. These fields were obtained using the code in this repository: https://github.com/kokron/anzu/tree/main. 

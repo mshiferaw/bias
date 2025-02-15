@@ -1,0 +1,1352 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+Bigseed is given by 43668
+nranks: 1
+Bigseed is given by 44341
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 92921
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 24265
+nranks: 1
+Bigseed is given by 58664
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 40515
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 47520
+nranks: 1
+Bigseed is given by 68002
+nranks: 1
+Bigseed is given by 22686
+a: 1.000000
+nranks: 1
+Bigseed is given by 47
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 56938
+nranks: 1
+Bigseed is given by 16657
+nranks: 1
+Bigseed is given by 38439
+nranks: 1
+Bigseed is given by 85196
+nranks: 1
+Bigseed is given by 10477
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+a: 1.000000
+TNG
+a: 1.000000
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 90020
+nranks: 1
+Bigseed is given by 23056
+nranks: 1
+Bigseed is given by 82203
+nranks: 1
+Bigseed is given by 62894
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+nranks: 1
+Bigseed is given by 997
+nranks: 1
+Bigseed is given by 15889
+nranks: 1
+nranks: 1
+nranks: 1
+Bigseed is given by 53456
+Bigseed is given by 11849
+Bigseed is given by 30892
+a: 1.000000
+nranks: 1
+Bigseed is given by 40319
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+TNG
+TNG
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n10: task 8: Out Of Memory
+srun: Terminating StepId=59884788.0
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+1e-13
+1e-13
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1e-13
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.0. Some of the step tasks have been OOM Killed.
+slurmstepd: error: *** STEP 59884788.0 ON sh03-03n09 CANCELLED AT 2025-02-14T16:54:13 ***
+nranks: 1
+Bigseed is given by 31311
+nranks: 1
+Bigseed is given by 70848
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 29362
+nranks: 1
+Bigseed is given by 89936
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 73334
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 60983
+nranks: 1
+Bigseed is given by 4253
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 57885
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 91202
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 63532
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 89423
+a: 0.666667
+nranks: 1
+Bigseed is given by 31950
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 16524
+nranks: 1
+Bigseed is given by 6329
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 67565
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 53014
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 79351
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 20926
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 15053
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 88631
+a: 0.666667
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+nranks: 1
+Bigseed is given by 80491
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+nranks: 1
+Bigseed is given by 24127
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4306, 3)
+Mean MPI nbar is 0.000500
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+gal_field: (1250, 1250, 1250)
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+a: 0.666667
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+a: 0.666667
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+TNG
+TNG
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+0.0
+0.0
+nranks: 1
+Bigseed is given by 65906
+nranks: 1
+Bigseed is given by 95802
+nranks: 1
+Bigseed is given by 742
+a: 0.666667
+TNG
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+1e-13
+1e-13
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.1. Some of the step tasks have been OOM Killed.
+1.00e+00, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+(4306, 3)
+Mean MPI nbar is 0.000500
+p: (4306, 3)
+gal_field: (1250, 1250, 1250)
+srun: error: sh03-03n10: task 8: Out Of Memory
+srun: Terminating StepId=59884788.1
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.1. Some of the step tasks have been OOM Killed.
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.1. Some of the step tasks have been OOM Killed.
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.1. Some of the step tasks have been OOM Killed.
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+slurmstepd: error: *** STEP 59884788.1 ON sh03-03n09 CANCELLED AT 2025-02-14T16:55:57 ***
+srun: error: sh03-03n64: tasks 18-19,21-22: Terminated
+srun: error: sh03-03n09: tasks 0-3,5-6: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n64: task 20: Terminated
+srun: error: sh03-03n09: task 4: Terminated
+srun: Force Terminated StepId=59884788.1
+srun: Step created for StepId=59884788.2
+nranks: 1
+Bigseed is given by 21991
+nranks: 1
+Bigseed is given by 19103
+a: 0.500000
+a: 0.500000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 27342
+a: 0.500000
+TNG
+nranks: 1
+Bigseed is given by 17326
+a: 0.500000
+TNG
+nranks: 1
+Bigseed is given by 41349
+a: 0.500000
+TNG
+nranks: 1
+Bigseed is given by 9754
+a: 0.500000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+nranks: 1
+Bigseed is given by 31130
+a: 0.500000
+TNG
+0.0
+0.0
+1e-13
+1e-13
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.2. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n10: task 7: Out Of Memory
+srun: Terminating StepId=59884788.2
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+9.99e-01, 5.00e-04
+Mean MPI nbar is 0.000500?
+(4304, 3)
+Mean MPI nbar is 0.000500
+p: (4304, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.2. Some of the step tasks have been OOM Killed.
+nranks: 1
+Bigseed is given by 67305
+a: 0.500000
+TNG
+nranks: 1
+Bigseed is given by 74335
+nranks: 1
+Bigseed is given by 9425
+a: 0.500000
+a: 0.500000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 79409
+a: 0.500000
+TNG
+slurmstepd: error: *** STEP 59884788.2 ON sh03-03n09 CANCELLED AT 2025-02-14T16:57:50 ***
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n58: tasks 14-16: Terminated
+srun: error: sh03-03n09: tasks 0-4,6: Terminated
+srun: error: sh03-03n50: tasks 10-12: Terminated
+srun: error: sh03-03n50: task 13: Terminated
+srun: error: sh03-03n58: task 17: Terminated
+srun: error: sh03-03n09: task 5: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: Force Terminated StepId=59884788.2
+srun: Step created for StepId=59884788.3
+nranks: 1
+Bigseed is given by 30193
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 22211
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 4188
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 97002
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 19977
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 71652
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 88277
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 57691
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 77336
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 87975
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 42048
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 4613
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 36751
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 38683
+a: 0.400000
+TNG
+nranks: 1
+nranks: 1
+nranks: 1
+Bigseed is given by 64868
+Bigseed is given by 95780
+Bigseed is given by 44052
+nranks: 1
+Bigseed is given by 83255
+nranks: 1
+Bigseed is given by 23346
+a: 0.400000
+a: 0.400000
+a: 0.400000
+a: 0.400000
+a: 0.400000
+TNG
+TNG
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 77014
+nranks: 1
+Bigseed is given by 77721
+nranks: 1
+Bigseed is given by 37834
+a: 0.400000
+a: 0.400000
+a: 0.400000
+TNG
+TNG
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+nranks: 1
+Bigseed is given by 29329
+a: 0.400000
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+nranks: 1
+Bigseed is given by 52507
+nranks: 1
+Bigseed is given by 51852
+a: 0.400000
+a: 0.400000
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+TNG
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+TNG
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+1.00e+00, 5.01e-04
+Mean MPI nbar is 0.000501?
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+(4313, 3)
+Mean MPI nbar is 0.000501
+p: (4313, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.3. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n50: task 13: Out Of Memory
+srun: Terminating StepId=59884788.3
+slurmstepd: error: *** STEP 59884788.3 ON sh03-03n09 CANCELLED AT 2025-02-14T17:00:49 ***
+srun: error: sh03-03n10: task 8: Terminated
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n64: tasks 18-19,21-22: Terminated
+srun: error: sh03-03n58: tasks 15-17: Terminated
+srun: error: sh03-03n09: tasks 1,3,5: Terminated
+srun: error: sh03-03n10: task 7: Terminated
+srun: error: sh03-03n09: tasks 0,2,6: Terminated
+srun: error: sh03-03n09: task 4: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n58: task 14: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n64: task 20: Terminated
+srun: Force Terminated StepId=59884788.3
+nranks: 1
+Bigseed is given by 92722
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 36728
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 1013
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 11434
+a: 1.000000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+nranks: 1
+Bigseed is given by 96462
+a: 1.000000
+TNG
+0.0
+0.0
+1e-13
+1e-13
+1.13e+01, 5.67e-03
+Mean MPI nbar is 0.005670?
+(48846, 3)
+Mean MPI nbar is 0.005670
+p: (48846, 3)
+gal_field: (1250, 1250, 1250)
+1.13e+01, 5.67e-03
+Mean MPI nbar is 0.005670?
+(48846, 3)
+Mean MPI nbar is 0.005670
+p: (48846, 3)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.4. Some of the step tasks have been OOM Killed.
+nranks: 1
+Bigseed is given by 95578
+a: 1.000000
+srun: error: sh03-03n10: task 8: Out Of Memory
+srun: Terminating StepId=59884788.4
+TNG
+0.0
+0.0
+0.0
+slurmstepd: error: *** STEP 59884788.4 ON sh03-03n09 CANCELLED AT 2025-02-14T17:01:53 ***
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n50: tasks 10,12-13: Terminated
+srun: error: sh03-03n64: tasks 18,20-22: Terminated
+srun: error: sh03-03n09: tasks 0,2-6: Terminated
+srun: error: sh03-03n58: tasks 14-16: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n50: task 11: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n58: task 17: Terminated
+srun: error: sh03-03n64: task 19: Terminated
+srun: error: sh03-03n09: task 1: Terminated
+srun: Force Terminated StepId=59884788.4
+nranks: 1
+Bigseed is given by 53367
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 79193
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 47668
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 55493
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 8269
+nranks: 1
+Bigseed is given by 53922
+a: 0.666667
+a: 0.666667
+TNG
+TNG
+nranks: 1
+Bigseed is given by 13762
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 4459
+a: 0.666667
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+1e-13
+1e-13
+nranks: 1
+Bigseed is given by 30109
+a: 0.666667
+TNG
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+nranks: 1
+Bigseed is given by 86608
+a: 0.666667
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+nranks: 1
+Bigseed is given by 12362
+a: 0.666667
+TNG
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.5. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n58: task 14: Out Of Memory
+srun: Terminating StepId=59884788.5
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+0.0
+0.0
+1e-13
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.5. Some of the step tasks have been OOM Killed.
+1e-13
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003400?
+(29292, 3)
+Mean MPI nbar is 0.003400
+p: (29292, 3)
+gal_field: (1250, 1250, 1250)
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+slurmstepd: error: *** STEP 59884788.5 ON sh03-03n09 CANCELLED AT 2025-02-14T17:04:34 ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.5. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n50: tasks 10-11,13: Terminated
+srun: error: sh03-03n64: tasks 18,20-22: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n50: task 12: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n64: task 19: Terminated
+srun: Force Terminated StepId=59884788.5
+nranks: 1
+Bigseed is given by 65395
+nranks: 1
+Bigseed is given by 6261
+a: 0.500000
+a: 0.500000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 30682
+a: 0.500000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+1e-13
+1e-13
+6.81e+00, 3.40e-03
+Mean MPI nbar is 0.003403?
+nranks: 1
+Bigseed is given by 38877
+nranks: 1
+Bigseed is given by 2878
+(29314, 3)
+Mean MPI nbar is 0.003403
+p: (29314, 3)
+gal_field: (1250, 1250, 1250)
+6.81e+00, 3.40e-03
+Mean MPI nbar is 0.003403?
+a: 0.500000
+a: 0.500000
+(29314, 3)
+Mean MPI nbar is 0.003403
+p: (29314, 3)
+gal_field: (1250, 1250, 1250)
+TNG
+TNG
+slurmstepd: error: Detected 3 oom_kill events in StepId=59884788.6. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n10: task 7: Out Of Memory
+srun: Terminating StepId=59884788.6
+slurmstepd: error: *** STEP 59884788.6 ON sh03-03n09 CANCELLED AT 2025-02-14T17:06:32 ***
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n50: tasks 10-11,13: Terminated
+srun: error: sh03-03n58: tasks 14-16: Terminated
+srun: error: sh03-03n64: tasks 18-21: Terminated
+srun: error: sh03-03n09: tasks 0-4: Terminated
+srun: error: sh03-03n09: task 5: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n09: task 6: Terminated
+srun: error: sh03-03n64: task 22: Terminated
+srun: error: sh03-03n50: task 12: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n58: task 17: Terminated
+srun: Force Terminated StepId=59884788.6
+srun: Step created for StepId=59884788.7
+nranks: 1
+Bigseed is given by 26938
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 91422
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 59908
+a: 0.400000
+TNG
+nranks: 1
+Bigseed is given by 75070
+nranks: 1
+Bigseed is given by 26314
+a: 0.400000
+TNG
+a: 0.400000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003399?
+(29282, 3)
+Mean MPI nbar is 0.003399
+p: (29282, 3)
+gal_field: (1250, 1250, 1250)
+1e-13
+6.80e+00, 3.40e-03
+Mean MPI nbar is 0.003399?
+(29282, 3)
+Mean MPI nbar is 0.003399
+p: (29282, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.7. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n70: task 23: Out Of Memory
+srun: Terminating StepId=59884788.7
+slurmstepd: error: *** STEP 59884788.7 ON sh03-03n09 CANCELLED AT 2025-02-14T17:08:37 ***
+srun: error: sh03-03n09: tasks 0-3,5-6: Terminated
+srun: error: sh03-03n50: tasks 10-11,13: Terminated
+srun: error: sh03-03n58: tasks 14-15,17: Terminated
+srun: error: sh03-03n64: tasks 18-22: Terminated
+srun: error: sh03-03n10: tasks 7-8: Terminated
+srun: error: sh03-03n09: task 4: Terminated
+srun: error: sh03-03n58: task 16: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n50: task 12: Terminated
+srun: Force Terminated StepId=59884788.7
+srun: Step created for StepId=59884788.8
+nranks: 1
+Bigseed is given by 45419
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 53452
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 40614
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 85551
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 19391
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 89040
+nranks: 1
+nranks: 1
+Bigseed is given by 89670
+Bigseed is given by 98832
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 63205
+a: 1.000000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+1e-13
+1e-13
+nranks: 1
+Bigseed is given by 86579
+a: 1.000000
+TNG
+6.50e+00, 3.25e-03
+Mean MPI nbar is 0.003251?
+(28004, 3)
+Mean MPI nbar is 0.003251
+p: (28004, 3)
+gal_field: (1250, 1250, 1250)
+6.50e+00, 3.25e-03
+Mean MPI nbar is 0.003251?
+(28004, 3)
+Mean MPI nbar is 0.003251
+p: (28004, 3)
+gal_field: (1250, 1250, 1250)
+nranks: 1
+Bigseed is given by 24301
+a: 1.000000
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+TNG
+0.0
+1e-13
+nranks: 1
+Bigseed is given by 95793
+a: 1.000000
+TNG
+6.50e+00, 3.25e-03
+Mean MPI nbar is 0.003251?
+(28004, 3)
+Mean MPI nbar is 0.003251
+p: (28004, 3)
+gal_field: (1250, 1250, 1250)
+slurmstepd: error: Detected 1 oom_kill event in StepId=59884788.8. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n50: task 10: Out Of Memory
+srun: Terminating StepId=59884788.8
+slurmstepd: error: *** STEP 59884788.8 ON sh03-03n09 CANCELLED AT 2025-02-14T17:11:07 ***
+srun: error: sh03-03n70: task 23: Terminated
+srun: error: sh03-03n64: tasks 18-19,21-22: Terminated
+srun: error: sh03-03n09: tasks 0-3,5-6: Terminated
+srun: error: sh03-03n58: tasks 14-16: Terminated
+srun: error: sh03-03n10: task 8: Terminated
+srun: error: sh03-03n10: task 7: Terminated
+srun: error: sh03-03n70: task 24: Terminated
+srun: error: sh03-03n64: task 20: Terminated
+srun: error: sh03-03n21: task 9: Terminated
+srun: error: sh03-03n58: task 17: Terminated
+srun: error: sh03-03n09: task 4: Terminated
+srun: Force Terminated StepId=59884788.8
+srun: Step created for StepId=59884788.9
+nranks: 1
+Bigseed is given by 94376
+a: 0.666667
+TNG
+nranks: 1
+Bigseed is given by 3441
+a: 0.666667
+TNG
+slurmstepd: error: *** JOB 59884788 ON sh03-03n09 CANCELLED AT 2025-02-14T17:12:39 ***
+slurmstepd: error: *** STEP 59884788.9 ON sh03-03n09 CANCELLED AT 2025-02-14T17:12:39 ***
+slurmstepd: error: Detected 7 oom_kill events in StepId=59884788.batch. Some of the step tasks have been OOM Killed.
