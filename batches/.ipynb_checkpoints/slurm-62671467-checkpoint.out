@@ -1,0 +1,210 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+nranks: 1
+nranks: 1
+Bigseed is given by 85100
+nranks: 1
+Bigseed is given by 78737
+Bigseed is given by 41056
+Bigseed is given by 4342
+nranks: 1
+Bigseed is given by 75260
+nranks: 1
+nranks: 1
+nranks: 1
+Bigseed is given by 15234
+Bigseed is given by 19386
+Bigseed is given by 57535
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+TNG
+TNG
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 38747
+nranks: 1
+nranks: 1
+Bigseed is given by 45922
+Bigseed is given by 230
+a: 1.000000
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+TNG
+nranks: 1
+Bigseed is given by 25496
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 44707
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 69936
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 92076
+nranks: 1
+Bigseed is given by 44561
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 62622
+nranks: 1
+Bigseed is given by 61275
+nranks: 1
+Bigseed is given by 80066
+a: 1.000000
+a: 1.000000
+a: 1.000000
+nranks: 1
+Bigseed is given by 25853
+TNG
+TNG
+TNG
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 83448
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 91956
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 41947
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 28119
+a: 1.000000
+TNG
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+['SubhaloMassType', 'SubhaloSFR', 'SubhaloPos']
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1e-13
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+1.67e+00, 8.33e-04
+Mean MPI nbar is 0.000833?
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+(7175, 3)
+Mean MPI nbar is 0.000833
+p: (7175, 3)
+gal_field: (1250, 1250, 1250)
+nranks: 1
+Bigseed is given by 38213
+a: 1.000000
+TNG
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+making overdensity contrast
+slurmstepd: error: Detected 2 oom_kill events in StepId=62671467.0. Some of the step tasks have been OOM Killed.
+srun: error: sh03-03n29: task 0: Out Of Memory
+srun: Terminating StepId=62671467.0
+slurmstepd: error: *** STEP 62671467.0 ON sh03-03n29 CANCELLED AT 2025-04-03T21:26:37 ***
+srun: error: sh03-03n46: task 24: Terminated
+srun: error: sh03-03n44: tasks 8-23: Terminated
+srun: Force Terminated StepId=62671467.0
+nranks: 1
+Bigseed is given by 69746
+a: 0.666667
+TNG

@@ -1,0 +1,119 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+Bigseed is given by 14898
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 30224
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 8636
+nranks: 1
+Bigseed is given by 64651
+nranks: 1
+Bigseed is given by 58244
+nranks: 1
+Bigseed is given by 30416
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 75875
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 52777
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 24529
+nranks: 1
+Bigseed is given by 60918
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 30277
+nranks: 1
+Bigseed is given by 32237
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 25980
+nranks: 1
+Bigseed is given by 76308
+nranks: 1
+Bigseed is given by 72203
+nranks: 1
+Bigseed is given by 69159
+nranks: 1
+Bigseed is given by 15320
+nranks: 1
+nranks: 1
+Bigseed is given by 75368
+Bigseed is given by 34106
+nranks: 1
+Bigseed is given by 55155
+nranks: 1
+Bigseed is given by 85400
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 22039
+nranks: 1
+Bigseed is given by 3193
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 34606
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 87664
+a: 1.000000
+Success! TNGredlow

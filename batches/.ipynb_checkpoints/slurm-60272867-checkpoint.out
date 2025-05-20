@@ -1,0 +1,1035 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+Bigseed is given by 88780
+nranks: 1
+Bigseed is given by 73653
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 32649
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 98720
+nranks: 1
+Bigseed is given by 17667
+a: 1.000000
+a: 1.000000
+nranks: 1
+Bigseed is given by 7237
+Success! TNGredlow
+Success! TNGredlow
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 16903
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 25204
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 33118
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 60899
+a: 1.000000
+nranks: 1
+nranks: 1
+Bigseed is given by 51333
+nranks: 1
+Bigseed is given by 62669
+Bigseed is given by 2680
+nranks: 1
+Bigseed is given by 54608
+nranks: 1
+nranks: 1
+Bigseed is given by 78664
+Bigseed is given by 85975
+nranks: 1
+nranks: 1
+Bigseed is given by 49950
+Bigseed is given by 92617
+nranks: 1
+Bigseed is given by 40628
+nranks: 1
+Bigseed is given by 3318
+nranks: 1
+Bigseed is given by 4401
+Success! TNGredlow
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 85613
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+nranks: 1
+Bigseed is given by 22448
+Bigseed is given by 72767
+nranks: 1
+Bigseed is given by 40550
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+srun: Step created for StepId=60272867.1
+nranks: 1
+Bigseed is given by 63501
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 5013
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 60268
+nranks: 1
+Bigseed is given by 96111
+a: 0.666667
+a: 0.666667
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 81456
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 3080
+a: 0.666667
+nranks: 1
+Bigseed is given by 44813
+a: 0.666667
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 95109
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 58709
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 15749
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 57061
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 82466
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 90298
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 93189
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 10944
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 83318
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 88038
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 20695
+a: 0.666667
+nranks: 1
+Bigseed is given by 8857
+Success! TNGredlow
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 50603
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 12266
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 96052
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 49850
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 75511
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 66408
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 24594
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 69154
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 1784
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 29202
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 24318
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 28210
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 65080
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 49883
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 60215
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 75148
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 3410
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 10307
+nranks: 1
+Bigseed is given by 38809
+a: 0.500000
+Success! TNGredlow
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 142
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 55079
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 99320
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 62539
+nranks: 1
+Bigseed is given by 59440
+a: 0.500000
+a: 0.500000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 15320
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 77911
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 10061
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 30660
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 3595
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 96909
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 34589
+a: 0.500000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 58851
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 8452
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 16029
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 35252
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 89616
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 5283
+a: 0.400000
+nranks: 1
+Bigseed is given by 83859
+a: 0.400000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 57319
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 38339
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 23626
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 86292
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 74576
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 9370
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 67889
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 22804
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 84597
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 72270
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 35250
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 73467
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 9703
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 4228
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 59957
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 93001
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 25216
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 7776
+a: 0.400000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 6754
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 66393
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 66943
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 30672
+nranks: 1
+Bigseed is given by 39363
+a: 1.000000
+Success! TNGredhigh
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 87240
+nranks: 1
+Bigseed is given by 20266
+a: 1.000000
+Success! TNGredhigh
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 7589
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 52692
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 60233
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 86399
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+nranks: 1
+Bigseed is given by 56960
+Bigseed is given by 29660
+a: 1.000000
+a: 1.000000
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 43663
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 51160
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 35629
+a: 1.000000
+nranks: 1
+Bigseed is given by 23875
+a: 1.000000
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 42524
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 17552
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 15942
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 48268
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 30082
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 26222
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 75358
+a: 1.000000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 94714
+a: 1.000000
+Success! TNGredhigh
+srun: Step created for StepId=60272867.5
+nranks: 1
+Bigseed is given by 71505
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 93822
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 74936
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 68856
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 89440
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 96652
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 74448
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 30008
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 94707
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 2139
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 21246
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 90356
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 62520
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 18037
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 72563
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 96909
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 12587
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 2997
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 70449
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 82266
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 17174
+a: 0.666667
+nranks: 1
+Bigseed is given by 47103
+a: 0.666667
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 30322
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 26104
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 24058
+a: 0.666667
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 14955
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 53828
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 37799
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 89362
+a: 0.500000
+nranks: 1
+Bigseed is given by 40535
+Success! TNGredhigh
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 78959
+a: 0.500000
+nranks: 1
+Bigseed is given by 44803
+a: 0.500000
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 59050
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 15522
+nranks: 1
+Bigseed is given by 36094
+a: 0.500000
+a: 0.500000
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 33620
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 73296
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 41254
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 76624
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 96005
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 53899
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 62104
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 47178
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 30390
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 82558
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 3964
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 8056
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 14258
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 40947
+a: 0.500000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 24388
+a: 0.500000
+Success! TNGredhigh
+srun: Step created for StepId=60272867.7
+nranks: 1
+Bigseed is given by 90428
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 73806
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 74635
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 43750
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 1560
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 78431
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 47128
+a: 0.400000
+nranks: 1
+Bigseed is given by 20299
+a: 0.400000
+Success! TNGredhigh
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 44802
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 68065
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 69865
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 61143
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 16700
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 34680
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 56356
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 9694
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 19509
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 11537
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 27573
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 44602
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 3017
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 23350
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 83397
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 89330
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 83439
+a: 0.400000
+Success! TNGredhigh
+nranks: 1
+Bigseed is given by 47224
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 8678
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 53642
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 22504
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 49790
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 18262
+nranks: 1
+Bigseed is given by 69712
+a: 1.000000
+a: 1.000000
+Success! TNGredmedium
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 78231
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 16804
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 69207
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 22513
+a: 1.000000
+nranks: 1
+Bigseed is given by 29249
+Success! TNGredmedium
+a: 1.000000
+nranks: 1
+Bigseed is given by 11929
+Success! TNGredmedium
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 17845
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 45490
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 74759
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 1658
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 77074
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 91712
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 39467
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 53827
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 73955
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 9642
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 9568
+a: 1.000000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 80917
+a: 1.000000
+Success! TNGredmedium
+srun: error: Unable to confirm allocation for job 60272867: Socket timed out on send/recv operation
+srun: Check SLURM_JOB_ID environment variable. Expired or invalid job 60272867
+srun: error: Unable to confirm allocation for job 60272867: Socket timed out on send/recv operation
+srun: Check SLURM_JOB_ID environment variable. Expired or invalid job 60272867
+srun: Step created for StepId=60272867.9
+nranks: 1
+Bigseed is given by 90619
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 95058
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 96167
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 5124
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 65520
+a: 0.400000
+nranks: 1
+Bigseed is given by 55511
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 21114
+a: 0.400000
+Success! TNGredmedium
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 50662
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 8970
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 49668
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 73576
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 80548
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 74954
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 80478
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 27281
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 63131
+nranks: 1
+Bigseed is given by 24526
+a: 0.400000
+a: 0.400000
+Success! TNGredmedium
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 56842
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 82138
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 24601
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 17858
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 9553
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 49319
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 39007
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 39750
+a: 0.400000
+Success! TNGredmedium
+nranks: 1
+Bigseed is given by 6944
+a: 1.000000
+Success! UMredlow
+nranks: 1
+Bigseed is given by 1860
+a: 1.000000
+Success! UMredlow

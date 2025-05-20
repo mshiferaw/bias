@@ -1,0 +1,47 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+Bigseed is given by 45136
+nranks: 1
+Bigseed is given by 19914
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 22701
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 37826
+a: 1.000000
+TNG
+nranks: 1
+Bigseed is given by 28735
+nranks: 1
+Bigseed is given by 57318
+a: 1.000000
+a: 1.000000
+TNG
+TNG
+nranks: 1
+Bigseed is given by 79060
+a: 1.000000
+TNG

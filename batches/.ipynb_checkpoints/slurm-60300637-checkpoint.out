@@ -1,0 +1,135 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+nranks: 1
+Bigseed is given by 419
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 69102
+a: 1.000000
+nranks: 1
+Bigseed is given by 42968
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 31829
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 57017
+nranks: 1
+Bigseed is given by 39151
+nranks: 1
+Bigseed is given by 1780
+nranks: 1
+Bigseed is given by 56149
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 62240
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 82896
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 1003
+nranks: 1
+Bigseed is given by 85387
+nranks: 1
+Bigseed is given by 13926
+a: 1.000000
+Success! TNGredlow
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 83939
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 36583
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 22315
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 14192
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 22826
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 99881
+nranks: 1
+Bigseed is given by 85618
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 92839
+a: 1.000000
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 65790
+nranks: 1
+nranks: 1
+Bigseed is given by 96986
+nranks: 1
+Bigseed is given by 28431
+Bigseed is given by 90488
+a: 1.000000
+a: 1.000000
+a: 1.000000
+a: 1.000000
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 44507
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 87814
+a: 0.666667
+Success! TNGredlow
+nranks: 1
+Bigseed is given by 31214
+a: 0.666667
+nranks: 1
+Bigseed is given by 66048
+a: 0.666667
+Success! TNGredlow
+Success! TNGredlow

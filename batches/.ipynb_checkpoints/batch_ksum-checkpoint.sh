@@ -3,16 +3,19 @@
 #SBATCH --partition=kipac,hns,normal
 #SBATCH --ntasks=25 
 #SBATCH --cpus-per-task=1
-#SBATCH --mem-per-cpu=7000MB
+#SBATCH --mem-per-cpu=10000MB
 # source /home/users/kokron/Libraries/miniconda3/etc/profile.d/conda.sh
 
 #conda init 
 conda activate nbodykit-env
+module load openmpi
 cd /oak/stanford/orgs/kipac/users/mahlet/bias/scripts
 
 kmax=$1
 nbias=$2
 res=$3
+
+# srun -n 25 -w $SLURM_JOB_NODELIST python mpi_ksum_debug.py 'TNG' 99 $kmax $nbias $res 'red' 'low'
 
 for color in 'red' 'blue' 'total'
 do
